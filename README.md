@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NobertSwaka
 - 👀 I’m interested in software dev,web devopment and software enginering
-- 🌱 I’m currently learning javascript and react
+- 🌱 I’m well equiped in javascript and react
 - 💞️ I’m looking to collaborate on projects available
 - 📫 How to reach me,please email at swakanobert@gmail.com or call 0719157876
 
